@@ -1,3 +1,20 @@
+
+
+
+# this is no longer being maintained.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MusicPy
 
 MusicPy is a powerful and user-friendly desktop application designed to manage and manipulate your music files efficiently. It features file conversion, metadata retrieval, and batch renaming, all within an intuitive interface.
